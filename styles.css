@@ -229,11 +229,8 @@ a{
     text-decoration: none;
     color:wheat;
 }
-.orderbutton{
-    opacity: 0;
-}
+
 .item:hover .orderbutton{
-    opacity: 0.8;
     transform: scale(1.05);
     transition: 0.3s ease-in-out;
 }
