@@ -1,5 +1,5 @@
 version: 1
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mwangika/public_html/dianaliciouscakes
+    - export DEPLOYPATH=/home/mwangika/public_html/dianas_cakes
     - /bin/cp -R * $DEPLOYPATH
